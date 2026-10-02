@@ -214,4 +214,4 @@ Eraser is offered as a full free version with all features and updates included.
 Take control of your digital privacy today! Download Eraser and ensure your deleted files are gone forever.
 
 ---
-**Last updated:** 2026-10-01 23:00:34 UTC
+**Last updated:** 2026-10-02 02:07:49 UTC
